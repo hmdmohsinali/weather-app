@@ -4,6 +4,7 @@ const App=()=> {
   return (
     <div className="App">
       <Weather></Weather>
+      <Hello World></Hello>
     </div>
   );
 }
